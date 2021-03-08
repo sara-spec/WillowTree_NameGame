@@ -7,6 +7,7 @@ import java.util.Properties;
 public class ConfigurationReader {
     //created to be able to read configuration.properties file
     //used encapsulation OOP concept
+
     private static final Properties properties = new Properties();
 
     static {
